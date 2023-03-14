@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651937783067",
+    "project_id": "loginuserinterface",
+    "storage_bucket": "loginuserinterface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651937783067:android:f8bcf79d0ba44112de07be",
+        "android_client_info": {
+          "package_name": "com.example.sk_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651937783067-i9sd40c7c01jvdkii76g7diu7g091iqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUdyY5RKFluFly-OA7xZPoJQoXZh-x08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651937783067-i9sd40c7c01jvdkii76g7diu7g091iqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
